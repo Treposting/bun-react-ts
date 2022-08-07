@@ -7,7 +7,7 @@
 ### Cloning the repo
 
 ```sh
-bun create 0nahid/bun-react-ts
+bun create treposting/bun-react-ts
 ```
 
 First, run the development server:
